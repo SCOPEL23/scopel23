@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white
 )
 ![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
-
+![](https://skillicons.dev/icons?i=all)
 
 
 
